@@ -5,7 +5,7 @@ class servo():
     """
     sets up a servo
 
-    ## servo_pin is the pwm pin the servo is plugged into
+    servo_pin is the pwm pin the servo is plugged into
     
     
     """
