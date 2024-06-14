@@ -3,7 +3,7 @@
 ## Description
 control two servo from a raspberi pie from an mpu.
 
-
+![Alt text](20240607_152834_2.gif)
 
 
 ## External  libraries: <br>
