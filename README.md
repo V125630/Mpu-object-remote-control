@@ -7,7 +7,7 @@ control two servo from a raspberi pie from an mpu.
 
 
 ## External  libraries: <br>
-- pySerial https://github.com/pyserial/pyserial 
+- pySerial https://github.com/pyserial/pyserial <br> Licence: https://github.com/pyserial/pyserial/blob/7aeea35429d15f3eefed10bbb659674638903e3a/LICENSE.txt
 
 <br>
 
